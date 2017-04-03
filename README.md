@@ -1,4 +1,7 @@
 # Simple-Restaurant-RESTful-API
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
+[![homebrew: 1.1.11](https://img.shields.io/homebrew/v/cake.svg)](https://brew.sh/)
+
 
 REST API for mobile applications using Node.js and Express.js framework with Mongoose.js for working with MongoDB.
 
